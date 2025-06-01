@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Travel Planner</string>
+    <string name="textView2">Explore top destinations, hidden gems, and must-visit spots worldwide. Get recommendations based on your interests.</string>
+    <string name="btn_next">Next</string>
+    <string name="imageView9">Roameasy picture</string>
+    <string name="imageView">Launch screen</string>
+    <string name="imageView2">Logo</string>
+    <string name="imageView5">launch screen words</string>
+    <string name="launchbtn">Navigate to Next Page</string>
+    <string name="imageView13">Logo in onboard two</string>
+    <string name="imageView14">Roameasy in onboard two</string>
+    <string name="imageView10">Onboard two words</string>
+    <string name="imageView26">piclture for onboard screen</string>
+    <string name="imageView27">Background for words</string>
+    <string name="imageView8">RoamEasy Logo</string>
+    <string name="textView">Turn your travel dreams into reality — start planning now.</string>
+    <string name="tv_login">Already have an account?  LOGIN</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="editTextText">Enter Your Name Here</string>
+    <string name="textView5">Top Destinations</string>
+    <string name="subtitleText">Discover amazing places around the world</string>
+    <string name="textView6">Sri Lanka</string>
+    <string name="textView13">Visit Sri Lanka</string>
+    <string name="btn_save">Save Details</string>
+    <string name="textView11">Himaya Ranaweera</string>
+    <string name="btn_logout">Log Out</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Primary color (60%) - Background -->
+    <color name="blue">#99ACC3</color>
+
+    <!--Secondary color (30%) -->
+    <color name="black">#FF000000</color>
+
+    <!-- Accent color (10%) -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkblue">#1A237E</color>
+
+</resources>
